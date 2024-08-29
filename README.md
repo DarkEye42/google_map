@@ -1,4 +1,4 @@
-# google_map
+# Real Time Location Tracker App
 
 ## Map API Implementation Info
 
